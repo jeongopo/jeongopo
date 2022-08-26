@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://img.shields.io/badge/brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo
+<img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo/">
