@@ -21,9 +21,5 @@
     </p>
 </div>
 <br><br>
-
-
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongopo&layout=compact">
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
     </div>
