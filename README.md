@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://img.shields.io/static/v1?label=<>&message=<MESSAGE>&color=<COLOR>
-https://img.shields.io/badge/brightgreen?style=flat-square&logo=#20C997&logoColor=white&link=https://velog.io/@jeongopo
+https://img.shields.io/badge/brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo
