@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://img.shields.io/static/v1?label=<>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/badge/brightgreen?style=flat-square&logo=#20C997&logoColor=white&link=https://velog.io/@jeongopo
