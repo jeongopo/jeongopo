@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jeongopo 👋
 
 <!--
 **jeongopo/jeongopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo/">
+<a href="https://velog.io/@jeongopo"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo/"></a>
