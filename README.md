@@ -1,19 +1,17 @@
-### Jeongopo 👋
 
-<!--
-**jeongopo/jeongopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Waving](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Jeongopo!&fontAlign=80&fontAlignY=40&color=gradient)
 
-Here are some ideas to get you started:
+## ❤ Jeongopo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Technology Stack
+<img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongopo)](https://github.com/jeongopo/github-readme-stats)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongopo)](https://solved.ac/jeongopo)
+
+<br>
 <a href="https://velog.io/@jeongopo"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo/"></a>
+<a href="https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"><img src="https://img.shields.io/badge/Notion-lightgrey?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"></a>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
