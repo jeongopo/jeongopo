@@ -14,7 +14,7 @@
     <p>
       <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/C-green?style=flat-square&logo=C Sharp&logoColor=white">
+      <img src="https://img.shields.io/badge/C#-green?style=flat-square&logo=C Sharp&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white">
       <br>
        <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white">
